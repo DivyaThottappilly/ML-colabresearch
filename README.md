@@ -1,4 +1,4 @@
-# Exploratory Analysis - Will a customer accept the coupon
+# Exploratory Analysis - Will a customer accept the coupon?
 
 ## Overview 
 In this first practical application assignment of the program, mainly trying to answer the question, “Will a customer accept the coupon?” The goal of this project is to use what you know about visualizations and probability distributions to distinguish between customers who accepted a driving coupon versus those who did not. 
