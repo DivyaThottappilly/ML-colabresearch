@@ -58,14 +58,23 @@ go to bars more than once a month, had passengers that were not a kid, and were 
 go to bars more than once a month and are under the age of 30 OR
 go to cheap restaurants more than 4 times a month and income is less than 50K.
 
-## Observations
-
 ### Summary of Acceptance of Bar coupons based on two conditons .
-Acceptance Rate of Bar coupons and Acceptance rate dependence on frequency 
-Acceptance rate for drivers who go to bars more than once a month, had passengers that were not a kid, and had occupations other than farming, fishing, or forestry.
+* Acceptance Rate of Bar coupons and Acceptance rate dependence on frequency 
+* Acceptance rate for drivers who go to bars more than once a month, had passengers that were not a kid, and had occupations other than farming, fishing, or forestry.
 
-### Summary of Observations are included 
+### Summary 
+Combined observations of above two criterias
+There is a noticeable difference. The target group defined by these combined criteria (frequent bar visitors, no kids as passengers, and specific occupations) shows a significantly higher acceptance rate for bar coupons compared to all other drivers.
 
-## Investigation on "Carry out & Take away" Coupons
+### Investigation on "Carry out & Take away" Coupons
+What portions of " Carry out & Take away" coupons are accepted ?
 
+Calculate acceptance rate of Carry and Take out coupns based on Education , Income and number of passengers
 
+### Summary
+* Overall Acceptance Rate for Carry out & Take away coupons:
+  Proportion of accepted carry out & take away coupons: 0.74 (74)
+
+There is a noticeable trend where individuals with Some High School education have a very high acceptance rate (0.94), which gradually decreases with higher levels of education, with Graduate degree (Masters or Doctorate) having the lowest acceptance rate (0.65).
+
+Passengers accompanied by Friend(s) have the highest acceptance rate (0.76), while those with Kid(s) as passengers have the lowest (0.70).
